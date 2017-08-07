@@ -34,5 +34,11 @@ namespace Workshop
             DavidBio frm1 = new DavidBio();
             frm1.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Jennifer jen = new Jennifer();
+            jen.Show();
+        }
     }
 }
