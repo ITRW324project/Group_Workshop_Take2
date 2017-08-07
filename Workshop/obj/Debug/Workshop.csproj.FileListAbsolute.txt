@@ -1,0 +1,20 @@
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\gitworkshop\Workshop\Workshop\bin\Debug\Workshop.exe.config
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\gitworkshop\Workshop\Workshop\bin\Debug\Workshop.exe
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\gitworkshop\Workshop\Workshop\bin\Debug\Workshop.pdb
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\gitworkshop\Workshop\Workshop\obj\Debug\Workshop.csprojResolveAssemblyReference.cache
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\gitworkshop\Workshop\Workshop\obj\Debug\Workshop.Form1.resources
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\gitworkshop\Workshop\Workshop\obj\Debug\Workshop.Properties.Resources.resources
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\gitworkshop\Workshop\Workshop\obj\Debug\Workshop.simeon_bio.resources
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\gitworkshop\Workshop\Workshop\obj\Debug\Workshop.csproj.GenerateResource.Cache
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\gitworkshop\Workshop\Workshop\obj\Debug\Workshop.exe
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\gitworkshop\Workshop\Workshop\obj\Debug\Workshop.pdb
+C:\Users\Simeon\Desktop\Back\Workshop\bin\Debug\Workshop.exe.config
+C:\Users\Simeon\Desktop\Back\Workshop\obj\Debug\Workshop.exe
+C:\Users\Simeon\Desktop\Back\Workshop\obj\Debug\Workshop.pdb
+C:\Users\Simeon\Desktop\Back\Workshop\bin\Debug\Workshop.exe
+C:\Users\Simeon\Desktop\Back\Workshop\bin\Debug\Workshop.pdb
+C:\Users\Simeon\Desktop\Back\Workshop\obj\Debug\Workshop.csprojResolveAssemblyReference.cache
+C:\Users\Simeon\Desktop\Back\Workshop\obj\Debug\Workshop.Form1.resources
+C:\Users\Simeon\Desktop\Back\Workshop\obj\Debug\Workshop.Properties.Resources.resources
+C:\Users\Simeon\Desktop\Back\Workshop\obj\Debug\Workshop.simeon_bio.resources
+C:\Users\Simeon\Desktop\Back\Workshop\obj\Debug\Workshop.csproj.GenerateResource.Cache
