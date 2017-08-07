@@ -86,5 +86,19 @@ namespace Workshop
             return smallest;
 
         }
+
+        public int count(int i)
+        {
+            Random n = new Random();
+
+            int[] array = new int[i];
+
+            for (int j = 0; j < i; j++)
+            {
+                array[j] = n.Next(1, 50);
+            }
+
+            return array[i];
+        }
     }
 }

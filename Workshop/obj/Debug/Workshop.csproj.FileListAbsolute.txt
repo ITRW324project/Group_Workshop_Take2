@@ -60,3 +60,18 @@ C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Work
 C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Jennifer.resources
 D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Dehan.resources
 D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Jennifer.resources
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\bin\Debug\Workshop.exe.config
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.exe
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.pdb
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\bin\Debug\Workshop.exe
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\bin\Debug\Workshop.pdb
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.csprojResolveAssemblyReference.cache
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Altus.resources
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.DavidBio.resources
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Dehan.resources
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Form1.resources
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Jennifer.resources
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Properties.Resources.resources
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.simeon_bio.resources
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Stephan.resources
+C:\Users\Altus\Desktop\New Git Workshop Practical\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.csproj.GenerateResource.Cache

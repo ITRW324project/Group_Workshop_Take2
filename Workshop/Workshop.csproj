@@ -46,6 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Altus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Altus.Designer.cs">
+      <DependentUpon>Altus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalcCount.cs" />
     <Compile Include="CalcMed.cs" />
     <Compile Include="CalcMin.cs" />
     <Compile Include="CalcStdDev.cs" />
@@ -91,6 +98,9 @@
     <Compile Include="Stephan.Designer.cs">
       <DependentUpon>Stephan.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Altus.resx">
+      <DependentUpon>Altus.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DavidBio.resx">
       <DependentUpon>DavidBio.cs</DependentUpon>
     </EmbeddedResource>

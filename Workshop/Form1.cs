@@ -46,5 +46,11 @@ namespace Workshop
             Dehan han = new Dehan();
             han.Show();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Altus alt = new Altus();
+            alt.Show();
+        }
     }
 }
