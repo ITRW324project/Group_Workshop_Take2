@@ -19,8 +19,23 @@ namespace Workshop
 
         private void button1_Click(object sender, EventArgs e)
         {
-            CalcStdDev c = new CalcStdDev();
+            try
+            {
+                int test = Int32.Parse(textBox2.Text);
+
+                Except exc = new Except();
+                if (exc.BetweenTest(Convert.ToInt32(textBox2.Text)) == true)
+                    MessageBox.Show("Between 5 and 20");
+                else
+                    MessageBox.Show("Not Between 5 and 20");
+                CalcStdDev c = new CalcStdDev();
             MessageBox.Show(Convert.ToString(c.calcStdDev(Convert.ToInt32(textBox2.Text))));
+
+            }
+            catch
+            {
+                MessageBox.Show(textBox2.Text + " is not an integer, try again please !");
+            }
         }
     }
 }
