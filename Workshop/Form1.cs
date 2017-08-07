@@ -40,5 +40,11 @@ namespace Workshop
             Jennifer jen = new Jennifer();
             jen.Show();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Dehan han = new Dehan();
+            han.Show();
+        }
     }
 }

@@ -54,3 +54,4 @@ C:\Users\beste\OneDrive\Documents\Git_2\Group_Workshop_Take2\Workshop\obj\Debug\
 C:\Users\beste\OneDrive\Documents\Git_2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.csproj.GenerateResource.Cache
 C:\Users\beste\OneDrive\Documents\Git_2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.exe
 C:\Users\beste\OneDrive\Documents\Git_2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.pdb
+C:\Users\beste\OneDrive\Documents\Git_2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Dehan.resources
