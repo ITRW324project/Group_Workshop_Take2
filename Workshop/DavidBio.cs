@@ -10,23 +10,17 @@ using System.Windows.Forms;
 
 namespace Workshop
 {
-    public partial class simeon_bio : Form
+    public partial class DavidBio : Form
     {
-        public simeon_bio()
+        public DavidBio()
         {
             InitializeComponent();
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            CalcMin c = new CalcMin();
-            MessageBox.Show(Convert.ToString(c.calcMinimum(Convert.ToInt32(textBox2.Text))));
-
+            CalcStdDev c = new CalcStdDev();
+            MessageBox.Show(Convert.ToString(c.calcStdDev(Convert.ToInt32(textBox2.Text))));
         }
     }
 }

@@ -48,6 +48,13 @@
   <ItemGroup>
     <Compile Include="CalcMed.cs" />
     <Compile Include="CalcMin.cs" />
+    <Compile Include="CalcStdDev.cs" />
+    <Compile Include="DavidBio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DavidBio.Designer.cs">
+      <DependentUpon>DavidBio.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +75,9 @@
     <Compile Include="Stephan.Designer.cs">
       <DependentUpon>Stephan.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="DavidBio.resx">
+      <DependentUpon>DavidBio.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

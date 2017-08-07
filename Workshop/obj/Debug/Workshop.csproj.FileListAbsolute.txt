@@ -40,3 +40,4 @@ D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_
 D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.simeon_bio.resources
 D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Stephan.resources
 D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.csproj.GenerateResource.Cache
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.DavidBio.resources
