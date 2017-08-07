@@ -55,3 +55,6 @@ C:\Users\beste\OneDrive\Documents\Git_2\Group_Workshop_Take2\Workshop\obj\Debug\
 C:\Users\beste\OneDrive\Documents\Git_2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.exe
 C:\Users\beste\OneDrive\Documents\Git_2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.pdb
 C:\Users\beste\OneDrive\Documents\Git_2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Dehan.resources
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.DavidBio.resources
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Dehan.resources
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Jennifer.resources
