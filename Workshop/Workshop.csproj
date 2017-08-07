@@ -62,6 +62,7 @@
       <DependentUpon>Dehan.cs</DependentUpon>
     </Compile>
     <Compile Include="DehanSum.cs" />
+    <Compile Include="Except.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +84,7 @@
     <Compile Include="simeon_bio.Designer.cs">
       <DependentUpon>simeon_bio.cs</DependentUpon>
     </Compile>
+    <Compile Include="Stat.cs" />
     <Compile Include="Stephan.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -11,18 +11,6 @@ namespace Workshop
 
         public double calcStdDev(int i)
         {
-            /*
-                        Random n = new Random();
-                        int[] array = new int[i];
-
-                        for (int j = 0; j < i; j++)
-                        {
-                            array[j] = n.Next(1, 50);
-                        }
-
-                        return array[i / 2];
-                    }*/
-
             Random n = new Random();
             int[] array = new int[i];
             int sum = 0;
@@ -49,9 +37,6 @@ namespace Workshop
             }
             double stndDev = volg / count;
             return stndDev;
-
-
-
         }
     }
 }
