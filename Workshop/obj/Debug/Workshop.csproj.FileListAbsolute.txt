@@ -18,3 +18,14 @@ C:\Users\Simeon\Desktop\Back\Workshop\obj\Debug\Workshop.Form1.resources
 C:\Users\Simeon\Desktop\Back\Workshop\obj\Debug\Workshop.Properties.Resources.resources
 C:\Users\Simeon\Desktop\Back\Workshop\obj\Debug\Workshop.simeon_bio.resources
 C:\Users\Simeon\Desktop\Back\Workshop\obj\Debug\Workshop.csproj.GenerateResource.Cache
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\bin\Debug\Workshop.exe.config
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\bin\Debug\Workshop.exe
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\bin\Debug\Workshop.pdb
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.csprojResolveAssemblyReference.cache
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Form1.resources
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Properties.Resources.resources
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.simeon_bio.resources
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.csproj.GenerateResource.Cache
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.exe
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.pdb
+C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Stephan.resources

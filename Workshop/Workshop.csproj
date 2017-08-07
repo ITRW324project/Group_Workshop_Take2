@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CalcMed.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -59,6 +60,12 @@
     </Compile>
     <Compile Include="simeon_bio.Designer.cs">
       <DependentUpon>simeon_bio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stephan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stephan.Designer.cs">
+      <DependentUpon>Stephan.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -74,6 +81,9 @@
     </Compile>
     <EmbeddedResource Include="simeon_bio.resx">
       <DependentUpon>simeon_bio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stephan.resx">
+      <DependentUpon>Stephan.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

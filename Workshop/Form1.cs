@@ -22,5 +22,11 @@ namespace Workshop
             simeon_bio frm = new simeon_bio();
             frm.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Stephan f = new Stephan();
+            f.Show();
+        }
     }
 }
