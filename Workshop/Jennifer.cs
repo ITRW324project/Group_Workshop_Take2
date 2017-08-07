@@ -19,14 +19,24 @@ namespace Workshop
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Except exc = new Except();
-            if (exc.BetweenTest(Convert.ToInt32(textBox1.Text)) == true)
-                MessageBox.Show("Between 5 and 20");
-            else
-                MessageBox.Show("Not Between 5 and 20");
+            try
+            {
+                int test = Int32.Parse(textBox1.Text);
 
-            JenSeSom num = new JenSeSom();
-            MessageBox.Show("Average:  " + Convert.ToString(num.generate_number_J(Convert.ToInt32(textBox1.Text))));
+                Except exc = new Except();
+                if (exc.BetweenTest(Convert.ToInt32(textBox1.Text)) == true)
+                    MessageBox.Show("Between 5 and 20");
+                else
+                    MessageBox.Show("Not Between 5 and 20");
+
+                JenSeSom num = new JenSeSom();
+                MessageBox.Show("Average:  " + Convert.ToString(num.generate_number_J(Convert.ToInt32(textBox1.Text))));
+            }
+            catch(FormatException)
+            {
+                MessageBox.Show(textBox1.Text + " is not an integer.  Try again!!");
+            }
+            
         }
 
         private void Jennifer_Load(object sender, EventArgs e)
