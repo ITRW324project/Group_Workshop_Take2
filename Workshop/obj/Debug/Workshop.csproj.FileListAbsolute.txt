@@ -29,3 +29,14 @@ C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Work
 C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.exe
 C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.pdb
 C:\Users\Stephan\Desktop\324\take 2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Stephan.resources
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\bin\Debug\Workshop.exe.config
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.exe
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.pdb
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\bin\Debug\Workshop.exe
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\bin\Debug\Workshop.pdb
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.csprojResolveAssemblyReference.cache
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Form1.resources
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Properties.Resources.resources
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.simeon_bio.resources
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.Stephan.resources
+D:\Werk\Derde jaar\Semester 2\ITRW 324\Project\GroupWorkProject2\Group_Workshop_Take2\Workshop\obj\Debug\Workshop.csproj.GenerateResource.Cache

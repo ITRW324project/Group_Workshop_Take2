@@ -24,35 +24,9 @@ namespace Workshop
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Random n = new Random();
-            int usernumber = Convert.ToInt32(textBox2.Text);
-            int[] array = new int[usernumber];
-            int sum = 0;
-            int count = 0;
-            int smallest = 50;
-            for (int i = 0; i < usernumber ; i++)
-            {
-                count += i;
-                sum += array[i];
-                array[i] = n.Next(10, 50);
-                smallest = array[i];
-                MessageBox.Show(Convert.ToString(array[i]));
-                if(array[i]< smallest)
-                {
-                    smallest = array[i];
-                }
-            }
-            double mean = sum / count;
-            double volg = 0;
-            for(int i = 0; i < usernumber; i++)
-            {
-                count += i;
-                volg += Math.Sqrt(array[i] - mean);
-            }
-            double stndDev = volg / count;
-            MessageBox.Show("hallo " + Convert.ToString(smallest));
-            MessageBox.Show("Die is die stdDev " + Convert.ToString(stndDev));
-            
+            CalcMin c = new CalcMin();
+            MessageBox.Show(Convert.ToString(c.calcMinimum(Convert.ToInt32(textBox2.Text))));
+
         }
     }
 }
